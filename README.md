@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 📱 Jay Gurudev Mobile App
+
+Custom mobile shop app for **Jay Gurudev Mobile**, Chandkheda, Ahmedabad.  
+App me products, cart aur WhatsApp order system included hai.
+
+---
+
+## 🏪 Shop Information
+- **Name:** Jay Gurudev Mobile
+- **Address:** Krpa Sagar Society ke samne, Mansarovar Road, Chandkheda, Ahmedabad
+- **Phone:** 6376749479
+- **Timings:** 10:00 AM - 9:40 PM
+
+---
+
+## 🚀 How to Run
+
+### 1. Clone Repository
+```bash
+git clone https://github.com/YOUR_USERNAME/jay-gurudev-mobile.git
+cd jay-gurudev-mobile
